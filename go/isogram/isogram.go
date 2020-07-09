@@ -1,3 +1,4 @@
+// Package isogram , contains all functions regarding Isograms
 package isogram
 
 import (
